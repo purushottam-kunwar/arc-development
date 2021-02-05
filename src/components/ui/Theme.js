@@ -20,5 +20,8 @@ export default createMuiTheme({
     h3: {
       fontWeight: "300",
     },
+    h2: {
+      fontWeight: "200",
+    },
   },
 });
